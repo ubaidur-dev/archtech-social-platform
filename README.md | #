@@ -1,0 +1,21 @@
+# Arch Tech | Social Platform
+I developed this project for a **University Student Client** to showcase a modern, high-performance frontend architecture. The core focus is on the powerful combination of React and Vite, providing a professional **"Social Networking"** environment designed specifically for developers and architects.
+
+### Core Frontend Features
+* **Modular React Components:** The entire project is divided into reusable components to ensure clean code maintenance and scalability.
+* **State-Driven Navigation:** Integrated React useState hooks to manage seamless switching between the Home Feed, Activity, and Messaging tabs without page reloads.
+* **Vite Build Engine:** Leveraged the Vite build tool for lightning-fast development and highly optimized bundle sizes.
+* **Custom Zinc-Dark UI:** A bespoke styling system built on CSS variables, providing a sleek, modern dark-mode experience optimized for long-duration usage.
+* **Responsive 3-Column Grid:** A sophisticated layout architecture that ensures a consistent and professional look across all screen resolutions (Sidebar, Main Feed, and Trends).
+* **Dynamic Frontend Simulation:** Includes a robust set of 20+ unique technical posts and activity logs to simulate a real-world production environment.
+
+### Tech Stack
+* **Library:** React.js (Latest Version)
+* **Build Tool:** Vite
+* **Styling:** Modern CSS3 (Variables & Grid)
+* **Deployment:** Fully production-ready for platforms like Vercel and Netlify.
+
+### How to Setup & Run
+* Install dependencies: **npm install**
+* Start the development server: **npm run dev**
+* Open in browser: **Navigate to http://localhost:5173**
